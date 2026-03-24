@@ -1,0 +1,3 @@
+from backend.models.city_weather import CityWeather
+from backend.models.city_air_quality import CityAirQuality
+from backend.models.environmental_anomaly import EnvironmentalAnomaly

@@ -1,0 +1,1 @@
+from backend.anomaly.service import run_anomaly_detection
